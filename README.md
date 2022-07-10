@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MillenniumIT ESP**
 - 🌱 I’m currently learning **Java, Programming, DevOps** and Cloud technologies such as **Azure, AWS**
-- 📫 How to reach me: **shakyarathnaweera@gmail.com** , **rathnaweera.com**
+- 📫 How to reach me: **shakyarathnaweera@gmail.com** , **[rathnaweera.com]**(https://www.rathnaweera.com)
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shakyarathnaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakyarathnaweera" height="30" width="40" /></a> <ion-icon name="earth-outline"></ion-icon>
