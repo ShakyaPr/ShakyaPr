@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShakyaPr&label=Profile%20views&color=0e75b6&style=flat" alt="ShakyaPr" /> </p>
 
-- 🔭 I’m currently working on **Axiata Digital Labs** as a **Software Engineer**
+- 🔭 I’m currently working on **WSO2** as a **Software Engineer**
 - 🌱 I’m currently learning **Java, Programming, DevOps** and Cloud technologies such as **Azure, AWS**
 - 📫 How to reach me: **shakyarathnaweera@gmail.com** , [rathnaweera.com](https://www.rathnaweera.com)
 
