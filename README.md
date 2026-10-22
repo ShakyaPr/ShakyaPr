@@ -40,4 +40,15 @@
 
 **Side projects:** [BalanceBoard](https://github.com/ShakyaPr/BalanceBoard) · [Spring Boot + Kafka](https://github.com/ShakyaPr/User-Info-Update-Springboot-App-Kafka)
 
+### GitHub activity
+
+<p align="center">
+  <a href="https://github.com/ShakyaPr">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShakyaPr&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=495" alt="Shakya's GitHub stats and contribution rank" />
+  </a>
+  <a href="https://github.com/ShakyaPr">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=ShakyaPr&amp;theme=tokyonight&amp;hide_border=true" alt="Shakya's total contributions, current streak and longest streak" />
+  </a>
+</p>
+
 [More of my open-source work →](https://github.com/pulls?q=is%3Apr+is%3Apublic+author%3AShakyaPr)
