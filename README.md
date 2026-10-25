@@ -15,7 +15,7 @@
 ### A little about me
 
 - 💻 Building **API platforms, backend services and developer tools** at WSO2. Previously at **Axiata Digital Labs**.
-- 🔧 Working on **API analytics, AI integrations, CI/CD** and tricky production issues.
+- 🔧 Working on **API Management** related features, and tricky production issues.
 - 🎓 **University of Moratuwa** engineering graduate. Currently pursuing an **MSc in Computer Science**, specialising in Software Architecture.
 - 🌱 Learning more about **Kubernetes, cloud architecture and distributed systems**.
 
